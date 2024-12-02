@@ -1,6 +1,6 @@
-# Make-automatic-requests-from-the-first-20-subdomains-of-the-wordlist-status-code
+# Automatic Requests subdomains and status code
 
-Este programa realiza requisições HTTP GET nos 20 primeiros subdomínios de uma wordlist especificada e exibe o código de status (status code) de cada requisição realizada. 
+Este programa realiza requisições HTTP GET nos 20* primeiros subdomínios de uma wordlist especificada e exibe o código de status (status code) de cada requisição realizada. 
 
 ---
 
